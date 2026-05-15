@@ -1,0 +1,20 @@
+# deps
+node_modules/
+.pnpm-store/
+
+# build outputs
+dist/
+.next/
+target/
+
+# env
+.env
+.env.local
+.env*.local
+
+# turbo
+.turbo/
+
+# misc
+.DS_Store
+*.wasm
